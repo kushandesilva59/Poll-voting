@@ -1,0 +1,15 @@
+.v-section{
+    margin-left: 10px;
+    margin-right: 260px;
+    border-radius: 5px;
+    border: 1px solid #CACDCC;
+}
+
+.title-wrapper{
+    width: 90%;
+}
+
+.video{
+    margin-left: 10px;
+    width: 1200px;
+}
